@@ -7,3 +7,6 @@
 <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyanderson-SR&layout=compact&icon_color=00FFF7&title_color=00FFF7&bg_color=000000")/>
 </div>
 <img align="center" alt="Lyanderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center"   height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+  
